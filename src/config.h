@@ -16,3 +16,5 @@ static const int PIN_RELE    = 5;
 static const char* TOPIC_TEMP       = "bar/sensor/temp";
 static const char* TOPIC_RELE_CMD   = "bar/rele/cmd";
 static const char* TOPIC_RELE_STATE = "bar/rele/state";
+// NUEVO: Tópico de Presencia del Sistema
+static const char* TOPIC_STATUS     = "bar/status";
